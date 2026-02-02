@@ -15,8 +15,7 @@
 
 
 
-![Uploading deepseek_mermaid_20260202_0bb1ea.png…]()
-
+<img width="11889" height="1392" alt="deepseek_mermaid_20260202_0bb1ea" src="https://github.com/user-attachments/assets/455f5a46-788c-435e-aadf-91b421908086" />
 
 
 
