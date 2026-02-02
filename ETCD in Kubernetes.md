@@ -15,30 +15,8 @@
 
 
 
-flowchart TD
-    Start[Mastering ETCD in Kubernetes] --> Found[Foundation]
-    Found --> KV[Key-Value Store<br>K8s Backing Store<br>Single Source of Truth]
-    Found --> R[Internal Raft Protocol<br>Quorum & Leader Election]
-    Found --> I[Control Plane Interaction]
+![Uploading deepseek_mermaid_20260202_0bb1ea.png…]()
 
-    Start --> Arc[Architecture & Models]
-    Arc --> SN[Single-Node Cluster<br>Testing Only]
-    Arc --> MN[Multi-Node Cluster<br>Production Minimum 3 Nodes<br>Odd Number Recommended]
-    Arc --> DM[Data Model<br>Key-Value, Prefix, Lease, Revision]
-    
-    Start --> CP[Critical Production Pillars]
-    CP --> S[Security<br>TLS, Auth, Access Control]
-    CP --> P[Performance & Tuning<br>Disk, Network, Parameters]
-    CP --> BR[Backup, Restore &<br>Disaster Recovery]
-    
-    Start --> Obs[Observability &<br>Maintenance]
-    Obs --> M[Monitoring & Alerting<br>Metrics, Health Endpoints]
-    Obs --> T[Troubleshooting<br>Common Issues & Resolutions]
-    
-    Start --> BP[Best Practices &<br>Real-World Application]
-    BP --> C[CKA Exam Focus]
-    BP --> RW[Real-World Use Cases]
-    BP --> PIT[Pitfalls & Interview Prep]
 
 
 
