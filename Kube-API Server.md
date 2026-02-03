@@ -1,5 +1,3 @@
----
-
 ## 1. What Is the Kube-API Server & Why Kubernetes Needs It
 
 The Kubernetes API server (`kube-apiserver`) is the single most critical component in the entire Kubernetes control plane. It is the one and only gateway through which every read, write, and watch operation on cluster state passes — no other control-plane component writes directly to etcd. Think of it as the "brain" that enforces rules, validates requests, and keeps every other component in sync.
