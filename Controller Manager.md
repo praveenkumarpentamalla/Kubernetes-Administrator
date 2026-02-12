@@ -1,4 +1,3 @@
-```markdown
 # Kube-Controller-Manager: The Brain of Kubernetes Automation
 
 ## 1. What Is kube-controller-manager & Why Kubernetes Needs It
